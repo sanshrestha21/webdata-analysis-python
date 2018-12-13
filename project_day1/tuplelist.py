@@ -1,0 +1,6 @@
+t1=["red","green","yellow","blueballs"]
+print t1[0]
+del t1[1]
+print t1[1]
+del t1[1]
+print t1[1]
